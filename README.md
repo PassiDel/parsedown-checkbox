@@ -1,11 +1,11 @@
 # Parsedown Checkbox
 
-An extension of [ParsedownExtra](https://github.com/erusev/parsedown-extra) and [Parsedown](http://parsedown.org/) that adds support for task list
+An extension of [Parsedown](http://parsedown.org/) that adds support for task list
 
 ## Installation
 
 ```bash
-composer require leblanc-simon/parsedown-checkbox
+composer require syma.dev/parsedown-checkbox
 ```
 
 ## Example
@@ -33,6 +33,8 @@ Prints :
 - [MIT](http://opensource.org/licenses/MIT)
 
 ## Author
+
+Pascal Syma <pascal@syma.dev>
 
 Simon Leblanc <contact@leblanc-simon.eu>
 

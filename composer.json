@@ -1,11 +1,16 @@
 {
-    "name": "leblanc-simon/parsedown-checkbox",
-    "description": "An extension of Parsedown and ParsedownExtra that adds support for checkbox",
-    "keywords": ["markdown", "markdown extra", "parser", "parsedown", "checkbox"],
-    "homepage": "https://github.com/leblanc-simon/parsedown-checkbox",
+    "name": "syma.dev/parsedown-checkbox",
+    "description": "An extension of Parsedown that adds support for checkbox",
+    "keywords": ["markdown", "parser", "parsedown", "checkbox"],
+    "homepage": "https://github.com/PassiDel/parsedown-checkbox",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Pascal Syma",
+            "email": "pascal@syma.dev",
+            "homepage": "https://syma.dev"
+        },
         {
             "name": "Simon Leblanc",
             "email": "contact@leblanc-simon.eu",
@@ -13,7 +18,6 @@
         }
     ],
     "require": {
-        "erusev/parsedown-extra": "^0.8.0-beta-1",
         "erusev/parsedown": "^1.8.0-beta"
     },
     "require-dev": {
